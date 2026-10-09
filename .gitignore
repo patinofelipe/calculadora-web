@@ -1,0 +1,17 @@
+# Maven
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Eclipse WTP / servidores
+.metadata/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
